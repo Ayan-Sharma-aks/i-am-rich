@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my first Flutter Application designed using basic classes and widgets.
 
-A few resources to get you started if this is your first Flutter project:
+It consists of an AppBar with a title and an Image in the body of the Scaffold widget.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![myfirstapp](https://user-images.githubusercontent.com/55046063/172586952-73040074-f64a-4e13-bce2-ce110dba7fdb.jpeg)
